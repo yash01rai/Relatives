@@ -11,7 +11,8 @@
 
 .App .mainObject {
   height: 40vh;
-  width: 43vw;
+  max-width: 22rem;
+  width: 100%;
   /* background-color: white; */
 }
 
